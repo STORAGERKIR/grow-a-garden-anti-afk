@@ -45,7 +45,4 @@ interval = 2 * 20  # 40 seconds (2 * 20)
 
 
 
-# this script may be against roblox TOS use accordingly
-
-
 
