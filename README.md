@@ -2,6 +2,14 @@
 
 A simple Python script that prevents you from being kicked for AFK (Away From Keyboard) in Roblox by performing actions at regular intervals.
 
+
+
+## quick info 
+- the .bat file bassicly launches   the python script  so that it works accordingly
+- to make it work for u u need to change the file directory in the .bat file
+
+
+
 ## Features
 
 - Presses spacebar and 'D' key every 40 seconds to simulate activity
